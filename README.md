@@ -48,7 +48,7 @@ Ein Neues Leben is a visual novel project designed to combine interactive storyt
 ![Save Load Screen](Save%20Load%20Screen.PNG)
 
 ## Demo
-[Add a playable demo or gameplay video link when available.]
+Will be added soon.
 
 ## Project Status
 The project is under development. Features and learning content may change as development continues.
