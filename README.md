@@ -30,22 +30,22 @@ Ein Neues Leben is a visual novel project designed to combine interactive storyt
 ## Screenshots
 
 ### Main Window
-![Main Window](screenshots/Main%20Window.PNG)
+![Main Window](screenshots/Main%20Window.png)
 
 ### Start Screen
-![Start Screen](screenshots/Start.PNG)
+![Start Screen](screenshots/Start.png)
 
 ### Character Dialogue
-![Character Dialogue](screenshots/Character%20dialogue.PNG)
+![Character Dialogue](screenshots/Character%20dialogue.png)
 
 ### German Learning Screen
-![German Learning Screen](screenshots/German%20learning%20screen.PNG)
+![German Learning Screen](screenshots/German%20learning%20screen.png)
 
 ### Player Choice Screen
-![Player Choice Screen](screenshots/Player%20choice%20screen.PNG)
+![Player Choice Screen](screenshots/Player%20choice%20screen.png)
 
 ### Save Load Screen
-![Save Load Screen](screenshots/Save%20Load%20Screen.PNG)
+![Save Load Screen](screenshots/Save%20Load%20Screen.png)
 
 ## Demo
 [Add a playable demo or gameplay video link when available.]
