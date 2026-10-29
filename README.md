@@ -8,6 +8,7 @@
 [![Python](https://img.shields.io/badge/Python-scripting-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Status](https://img.shields.io/badge/Status-In_Development-ffce00?style=for-the-badge)](#-project-status)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c8cff?style=for-the-badge)](https://mdshihabhossain726.github.io/)
+[![Play on itch.io](https://img.shields.io/badge/Play_on-itch.io-fa5c5c?style=for-the-badge&logo=itchdotio&logoColor=white)](https://shihugames.itch.io/ein-neues-leben)
 
 **Learn German through a story you shape with your own choices.**
 
@@ -90,7 +91,9 @@
 
 ## 🎬 Demo
 
-A demo will be added soon.
+The game is available to play and download on itch.io:
+
+[![Play on itch.io](https://img.shields.io/badge/Play_on-itch.io-fa5c5c?style=for-the-badge&logo=itchdotio&logoColor=white)](https://shihugames.itch.io/ein-neues-leben)
 
 ## 🚧 Project Status
 
